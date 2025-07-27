@@ -112,14 +112,6 @@ export const originSources = {
     color: "gray",
     home: "https://www.douyin.com",
   },
-  "hupu": {
-    name: "虎扑",
-    home: "https://hupu.com",
-    column: "china",
-    title: "主干道热帖",
-    type: "hottest",
-    color: "red",
-  },
   "tieba": {
     name: "百度贴吧",
     title: "热议",
@@ -272,31 +264,6 @@ export const originSources = {
       "trending-today": {
         title: "Today",
         type: "hottest",
-      },
-    },
-  },
-  "bilibili": {
-    name: "哔哩哔哩",
-    color: "blue",
-    home: "https://www.bilibili.com",
-    sub: {
-      "hot-search": {
-        title: "热搜",
-        column: "china",
-        type: "hottest",
-      },
-      "hot-video": {
-        title: "热门视频",
-        disable: "cf",
-        column: "china",
-        type: "hottest",
-      },
-      "ranking": {
-        title: "排行榜",
-        column: "china",
-        disable: "cf",
-        type: "hottest",
-        interval: Time.Common,
       },
     },
   },
