@@ -24,15 +24,6 @@
     "color": "blue",
     "interval": 600000
   },
-  "weibo": {
-    "title": "实时热搜",
-    "name": "微博",
-    "type": "hottest",
-    "column": "china",
-    "home": "https://weibo.com",
-    "color": "red",
-    "interval": 120000
-  },
   "zaobao": {
     "name": "联合早报",
     "type": "realtime",
